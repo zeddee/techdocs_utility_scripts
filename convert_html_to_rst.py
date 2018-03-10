@@ -1,5 +1,5 @@
 """
-Requires
+Requires Python 2.7.x
 html2rest==0.2.2
 
 Recurses through all directories looking for `htm` files, and writes a `rst` version of the file to the same directory.
