@@ -12,6 +12,10 @@
 reStructuredText Quick Reference
 ################################
 
+.. contents:: Table of Contents
+    :local:
+    :depth: 1
+
 Basic Formatting
 ================
 
