@@ -3,7 +3,7 @@ Examples of Great Documentation
 ###############################
 
 - `Microsoft Azure\: Azure Architecture Centre <https://docs.microsoft.com/en-us/azure/architecture/>`_
-- `Django documentation <https://docs.djangoproject.com/en/2.0/>` `(Github) <https://github.com/django/django/tree/master/docs>`
+- `Django documentation <https://docs.djangoproject.com/en/2.0/>`_ `(Github) <https://github.com/django/django/tree/master/docs>`_
   
 Style Guides
 ============
