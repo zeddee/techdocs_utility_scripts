@@ -8,4 +8,4 @@ Examples of Great Documentation
 Style Guides
 ============
 
-- `Microsoft Manual of Style <https://docs.microsoft.com/en-us/style-guide/welcome/>`
+- `Microsoft Manual of Style <https://docs.microsoft.com/en-us/style-guide/welcome/>`_
