@@ -14,7 +14,11 @@ for dirpath, dirnames, filenames in os.walk("."):
     for file in filenames:
         current_file = file.split(os.extsep)
         if current_file[1] == "htm":
+            # Prints out path for use with content.rst
             print (dirpath+"/"+current_file[0]+".rst")
+
+            # Opens destination file, writes to it, closes destination file.
+            # Once done, remove original htm file
             write_file = open(os.path.join(dirpath,current_file[0]+'.rst'),"w")
             html2rest(open(os.path.join(dirpath,file)).read(),writer=write_file)
             write_file.close()
