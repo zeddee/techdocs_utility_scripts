@@ -18,8 +18,14 @@ for dirpath, dirnames, filenames in os.walk("."):
             print (dirpath+"/"+current_file[0]+".rst")
 
             # Opens destination file, writes to it, closes destination file.
-            # Once done, remove original htm file
             write_file = open(os.path.join(dirpath,current_file[0]+'.rst'),"w")
             html2rest(open(os.path.join(dirpath,file)).read(),writer=write_file)
+            
+            # TODO: 
+            # - strip useless information from rst files 
+            # e.g. vestigial navigation from templates 
+            
             write_file.close()
+
+            # Remove original htm file
             os.remove(os.path.join(dirpath,current_file[0]+"."+current_file[1]))
