@@ -267,6 +267,12 @@ Use variables to insert unicode characters. For example, ``.. |copy| unicode:: 0
 
 .. |copy| unicode:: 0xA9 .. copyright sign
 
+Includes
+========
+
+.. include:: _static/include_me.inc
+
+
 HTML metadata
 =============
 
