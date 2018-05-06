@@ -37,3 +37,4 @@ You can run the present tool with the `present` command or from your $GOPATH: `$
 ## Further reading:
 
 - [Go presentation tool](http://halyph.com/blog/2015/05/18/golang-presentation-tool.html)
+- [Dave Cheney's presentations](https://github.com/davecheney/presentations)
