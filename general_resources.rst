@@ -17,3 +17,8 @@ Tools
 =====
 
 - `Shiori <https://github.com/RadhiFadlillah/shiori>`_
+
+Freelancer Resources
+====================
+
+- [MEAA J5 rates](http://www.meaa.org/download/recommended-freelance-rates/)
