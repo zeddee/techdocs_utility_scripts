@@ -18,6 +18,7 @@ Tools
 
 - `Shiori <https://github.com/RadhiFadlillah/shiori>`__
 - `Gutenberg <https://github.com/BafS/Gutenberg>`__ — Modern framework for printing the web correctly
+- `Cookie Consent <https://cookieconsent.insites.com/documentation/about-cookie-consent/>`__ — Cookie consent generator for EU compliance
 
 Freelancer Resources
 ====================
