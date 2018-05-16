@@ -24,3 +24,15 @@ Freelancer Resources
 ====================
 
 - [MEAA J5 rates](http://www.meaa.org/download/recommended-freelance-rates/)
+
+General Grammar
+=================
+
+- Data is/Data are
+  - "For what it's worth, I can confidently say that this will probably be 
+    the only time I ever write the word 'datum' in a Datablog post. Data as 
+    a plural term may be the proper usage but language evolves and we want 
+    to write in terms that everyone understands - and that don't seem ridiculous."
+    — Rogers, Simon, "Data are or data is?", published 8 Jul 2012 on 
+    _The Guardian\: Datablog_. 
+    Available: https://www.theguardian.com/news/datablog/2010/jul/16/data-plural-singular
