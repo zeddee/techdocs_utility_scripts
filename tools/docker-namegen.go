@@ -3,6 +3,7 @@ package main // import "github.com/docker/docker/pkg/namesgenerator"
 import (
 	"fmt"
 	"math/rand"
+	"time"
 )
 
 var (
@@ -631,19 +632,25 @@ var (
 // GetRandomName generates a random name from the list of adjectives and surnames in this package
 // formatted as "adjective_surname". For example 'focused_turing'. If retry is non-zero, a random
 // integer between 0 and 10 will be added to the end of the name, e.g `focused_turing3`
-func GetRandomName(retry int) string {
-begin:
-	name := fmt.Sprintf("%s_%s", left[rand.Intn(len(left))], right[rand.Intn(len(right))])
-	if name == "boring_wozniak" /* Steve Wozniak is not boring */ {
-		goto begin
-	}
 
-	if retry > 0 {
-		name = fmt.Sprintf("%s%d", name, rand.Intn(10))
-	}
-	return name
-}
+// func GetRandomName(retry int) string {
+// begin:
+// 	name := fmt.Sprintf("%s_%s", left[rand.Intn(len(left))], right[rand.Intn(len(right))])
+// 	if name == "boring_wozniak" /* Steve Wozniak is not boring */ {
+// 		goto begin
+// 	}
+//
+// 	if retry > 0 {
+// 		name = fmt.Sprintf("%s%d", name, rand.Intn(10))
+// 	}
+// 	return name
+// }
 
-func main(){
-    fmt.Println(GetRandomName(0))
+func main() {
+	// Seed new random number, otherwise will generate the same "random" numbers each time
+	s1 := rand.NewSource(time.Now().UnixNano())
+	r1 := rand.New(s1)
+
+	name := fmt.Sprintf("%s_%s", left[r1.Intn(len(left))], right[r1.Intn(len(right))])
+	fmt.Println(name)
 }
