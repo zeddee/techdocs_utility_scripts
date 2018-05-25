@@ -1,0 +1,13 @@
+= Error Messaging
+:toc:
+:sectnums:
+:sectanchors:
+
+== Resources
+
+- https://msdn.microsoft.com/en-us/library/windows/desktop/dn742469(v=vs.85).aspx[Microsoft Error Message Guide]
+- https://sites.google.com/site/moremiscellany/works/interface-text/message-text[Moremiscellany: Message Text]
+- http://www.authorstream.com/Presentation/RahulMehrotra-435484-is-it-ok-now/[Lockhart, Scott N., and Rahul Mehrota, "Is it OK, yet?: Refining User Interface Text", Hewlette-Packard Company]
+- http://www.klariti.com/technical-writing/writing-error-messages.shtml[klariti: A Review of Error Messages]
+- http://www.writersua.com/articles/message/index.html[Emily Wilska, "Non-Fatal Errors: Creating Usable, Effective Error Messages"]
+- https://developer.apple.com/macos/human-interface-guidelines/user-interaction/providing-user-feedback/[Apple HCI Guidelines: Providing User Feedback]
