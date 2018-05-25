@@ -1,0 +1,17 @@
+= Blogging for business
+:toc:
+:sectnums:
+:sectlinks:
+:sectanchors:
+
+https://ahrefs.com/academy/blogging-for-business/lesson-1-2
+
+== The compound effect of content marketing
+
+- Traffic is a vanity metric
+- User acquisition is the real metric
+- Bring highly targeted visitors who have a high chance of conversion
+- Main kpi: Sales/orders a month
+- blog should be a customer acquisition channel, not traffic acquisition channel
+
+
