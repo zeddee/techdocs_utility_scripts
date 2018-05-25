@@ -1,0 +1,8 @@
+= Security Compliance
+
+== Resources
+
+- https://www.cisco.com/c/en/us/td/docs/security/firepower/623/configuration/guide/fpmc-config-guide-v623/security_certifications_compliance.html[Cisco Firepower Management Centre — Security Certifications Compliance]
+- https://cloud.google.com/security/overview/whitepaper
+- https://aws.amazon.com/whitepapers/
+- https://support.shotgunsoftware.com/hc/en-us/articles/114094526153-Shotgun-security-white-paper (simplest -- just a zendesk article)
