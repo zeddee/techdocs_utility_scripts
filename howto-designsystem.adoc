@@ -1,0 +1,27 @@
+= How to Kickstart a Design System
+
+Abigail Birmingham [3 days ago]
+I just finally got the green light from the C-Suite to build our design system. I presented the following information and received a response of "How could we say no?" I hope it helps...
+
+• I told a story about what happens to a project without a design system (the time it takes, how new designs are added instead of using current ones, long approval times because of color or spacing debates) and juxtaposed that with a hypothetical story of the same project with a design system.
+
+• Showed our current CSS to show what a rubber band ball it has become (used cssstats.com)
+
+• Interviewed designers, developers, and content team to estimate how much time is spent now that could be saved with a design system and what more impactful things they could be doing to move the business forward
+
+• Tried to explain what a design system is like I was talking to a kindergartener to make sure they understood
+
+• Grabbed a couple stats on time/money savings
+
+• Listed any other benefits specific to our team
+
+• Showed a prototype of part of the system already designed
+
+• Outlined all of the work already done to make it seem less daunting
+
+• Presented very detailed next steps
+
+I also pulled slides and information from UXPin's Design System Starter Kit: https://www.uxpin.com/create-design-system-guide
+
+My biggest advice is leverage good storytelling techniques in your presentation and talk through it instead of writing it all out and just sending it off.
+
